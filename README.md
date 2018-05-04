@@ -1,2 +1,0 @@
-# NumPySamples
-NumPy Quick Samples 
